@@ -1,0 +1,14 @@
+{
+  "name": "puppetrender",
+  "version": "1.0.0",
+  "description": "Node.js on Docker with Puppeteer",
+  "author": "First Last <first.last@example.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node handler.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
